@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Kaishen Wang"
   pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "USA"
   employer         : "University of Maryland"
-  uri              : # URL
+  uri              : https://kaishen-wang.github.io/
   email            : "kaishen@umd.edu" 
 
   # Academic websites
