@@ -13,7 +13,7 @@ title                    : "Kaishen Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://kaishen-wang.github.io/
+url                      : https://kaishen-wang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Incoming cs PhD student"
   location         : "USA"
   employer         : "University of Maryland"
-  uri              : https://kaishen-wang.github.io/
+  uri              : https://kaishen-wang.github.io
   email            : "kaishen@umd.edu" 
 
   # Academic websites
