@@ -18,7 +18,7 @@ Email: kaishen at umd.edu
 
 ## News
 
-- May 2025: One paper accepted by ICML 2025.
+- May  2025: One paper accepted by ICML 2025.
 - Jan. 2025: One paper accepted by ICLR 2025.
-- Oct. 2024  One paper accepted by NeurIPS workshop 2025.
+- Oct. 2024: One paper accepted by NeurIPS workshop 2025.
 - Apr. 2024: One paper accepted by IJCAI 2024.
