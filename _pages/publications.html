@@ -27,7 +27,8 @@ author_profile: true
       <div class="publication-item">
         <strong>{{ post.title }}</strong><br />
         {% if post.author %}
-          <span><strong>Authors:</strong> {{ post.author }}</span><br />
+          {% assign authors = post.author | replace: "Kaishen Wang", "<strong>Kaishen Wang</strong>" %}
+          <span><strong>Authors:</strong> {{ authors | raw }}</span><br />
         {% endif %}
         {% if post.venue %}
           <em>{{ post.venue }}</em>, 
@@ -47,7 +48,8 @@ author_profile: true
     <div class="publication-item">
       <strong>{{ post.title }}</strong><br />
       {% if post.author %}
-        <span><strong>Authors:</strong> {{ post.author }}</span><br />
+        {% assign authors = post.author | replace: "Kaishen Wang", "<strong>Kaishen Wang</strong>" %}
+        <span><strong>Authors:</strong> {{ authors | raw }}</span><br />
       {% endif %}
       {% if post.venue %}
         <em>{{ post.venue }}</em>, 
