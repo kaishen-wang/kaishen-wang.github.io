@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* PhD student in University of Maryland, College Park (2021-)
-* B.S. in Sichuan University (2021-2025)
+* PhD student in University of Maryland, College Park (2025 - ongoing)
+* B.S. in Sichuan University (2021 - 2025)
 
 
 Publications
