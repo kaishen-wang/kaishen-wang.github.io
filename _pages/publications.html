@@ -23,12 +23,44 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <!-- 改这里，替换为自定义渲染 -->
+      <div class="publication-item">
+        <strong>{{ post.title }}</strong><br />
+        {% if post.author %}
+          <span>{{ post.author }}</span><br />
+        {% endif %}
+        {% if post.venue %}
+          <em>{{ post.venue }}</em>, 
+        {% elsif post.journal %}
+          <em>{{ post.journal }}</em>, 
+        {% endif %}
+        {{ post.date | date: "%Y" }}<br />
+        {% if post.paperurl %}
+          [<a href="{{ post.paperurl }}" target="_blank">PDF</a>]
+        {% endif %}
+      </div>
+      <hr />
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <!-- 同上，自定义渲染 -->
+    <div class="publication-item">
+      <strong>{{ post.title }}</strong><br />
+      {% if post.author %}
+        <span>{{ post.author }}</span><br />
+      {% endif %}
+      {% if post.venue %}
+        <em>{{ post.venue }}</em>, 
+      {% elsif post.journal %}
+        <em>{{ post.journal }}</em>, 
+      {% endif %}
+      {{ post.date | date: "%Y" }}<br />
+      {% if post.paperurl %}
+        [<a href="{{ post.paperurl }}" target="_blank">PDF</a>]
+      {% endif %}
+    </div>
+    <hr />
   {% endfor %}
 {% endif %}
 
