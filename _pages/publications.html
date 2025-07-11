@@ -11,39 +11,42 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- 如果定义了 publication_category，分门别类展示 -->
+<!-- 分别显示不同分类的论文 -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-
-      <div class="publication-item">
-        <strong>{{ post.title }}</strong><br />
-        {% if post.author %}
-          {% assign authors = post.author | replace: "Kaishen Wang", "<strong>Kaishen Wang</strong>" %}
-          <span>{{ authors | raw }}</span><br />
-        {% endif %}
-        {% if post.venue %}
-          <em>{{ post.venue }}</em>, 
-        {% elsif post.journal %}
-          <em>{{ post.journal }}</em>, 
-        {% endif %}
-        {{ post.date | date: "%Y" }}<br />
-        {% if post.paperurl %}
-          [<a href="{{ post.paperurl }}" target="_blank">PDF</a>]
-        {% endif %}
-      </div>
+    {% comment %}
+      这里是分类名，比如 conferences, preprints 等
+      category[0] 是分类标识
+      category[1].title 是分类显示名称，如 Conferences, Preprints
+    {% endcomment %}
+    {% assign posts_in_category = site.publications | where:"category", category[0] | sort: "date" | reverse %}
+    {% if posts_in_category.size > 0 %}
+      <h2>{{ category[1].title }}</h2>
       <hr />
-    {% endfor %}
+      {% for post in posts_in_category %}
+        <div class="publication-item">
+          <strong>{{ post.title }}</strong><br />
+          {% if post.author %}
+            {% assign authors = post.author | replace: "Kaishen Wang", "<strong>Kaishen Wang</strong>" %}
+            <span>{{ authors | raw }}</span><br />
+          {% endif %}
+          {% if post.venue %}
+            <em>{{ post.venue }}</em><br />
+          {% elsif post.journal %}
+            <em>{{ post.journal }}</em><br />
+          {% endif %}
+          {{ post.date | date: "%Y" }}<br />
+          {% if post.paperurl %}
+            [<a href="{{ post.paperurl }}" target="_blank">PDF</a>]
+          {% endif %}
+        </div>
+        <hr />
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 {% else %}
+  <!-- 如果没有定义分类，全部文章平铺显示 -->
   {% for post in site.publications reversed %}
     <div class="publication-item">
       <strong>{{ post.title }}</strong><br />
@@ -52,9 +55,9 @@ author_profile: true
         <span>{{ authors | raw }}</span><br />
       {% endif %}
       {% if post.venue %}
-        <em>{{ post.venue }}</em>, 
+        <em>{{ post.venue }}</em><br />
       {% elsif post.journal %}
-        <em>{{ post.journal }}</em>, 
+        <em>{{ post.journal }}</em><br />
       {% endif %}
       {{ post.date | date: "%Y" }}<br />
       {% if post.paperurl %}
