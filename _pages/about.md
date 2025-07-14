@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a first-year Ph.D. student in Computer Science at the University of Maryland, College Park, advised by [Prof. Heng Huang](https://www.cs.umd.edu/~heng). I received my B.S. in Computer Science from Sichuan University in 2025, where I was fortunate to be advised by [Prof. Tao He](https://ithet1007.github.io). 
+I am a first-year Ph.D. student in Computer Science at the University of Maryland, College Park, supervised by [Prof. Heng Huang](https://www.cs.umd.edu/~heng). I received my B.S. in Computer Science from Sichuan University in 2025, where I was fortunate to be supervised by [Prof. Tao He](https://ithet1007.github.io). 
 
 My research interests span a broad range of topics, including computer vision, building trustworthy and reliable machine learning models, and reinforcement learning.
 
