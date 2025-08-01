@@ -9,19 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
 * PhD student in University of Maryland, College Park (2025 - ongoing)
 * B.S. in Sichuan University (2021 - 2025)
 
 
-Publications
+# Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Service
+# Service
 ======
 * ICML 2025 SLLM@workshop reviewer
+
+# Interests
+------
+🎵 Music (K-Pop)  
+🎲 Board Games  
+✈️ Traveling
