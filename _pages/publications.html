@@ -36,7 +36,6 @@ author_profile: true
           {% elsif post.journal %}
             <em>{{ post.journal }}</em><br />
           {% endif %}
-          {{ post.date | date: "%Y" }}<br />
           {% if post.paperurl %}
             [<a href="{{ post.paperurl }}" target="_blank">PDF</a>]
           {% endif %}
@@ -59,7 +58,6 @@ author_profile: true
       {% elsif post.journal %}
         <em>{{ post.journal }}</em><br />
       {% endif %}
-      {{ post.date | date: "%Y" }}<br />
       {% if post.paperurl %}
         [<a href="{{ post.paperurl }}" target="_blank">PDF</a>]
       {% endif %}
