@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Kaishen Wang"
   pronouns         : "he/his"  
-  bio              : "First-year cs PhD student"
+  bio              : "CS PhD student"
   location         : "USA"
   employer         : "University of Maryland"
-  uri              : https://kaishen-wang.github.io
+  # uri              : https://kaishen-wang.github.io
   email            : "kaishen@umd.edu" 
 
   # Academic websites
