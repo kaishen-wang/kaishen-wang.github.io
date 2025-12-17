@@ -18,7 +18,6 @@ Email: kaishen[at]umd[dot]edu
 
 ## News
 
-- Nov. 2025: Will start my internship at TikTok (Seattle) as research scientist intern.
 - Nov. 2025: One paper accepted by AAAI 2026.
 - Aug. 2025: Started for pursing my PhD at CS@UMD.
 - Aug. 2025: Finished my internship at Jasper Capital as a quantitative research intern.
