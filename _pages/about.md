@@ -18,6 +18,7 @@ Email: kaishen[at]umd[dot]edu
 
 ## News
 
+- Jan. 2026: One paper accepted by EACL 2026.
 - Nov. 2025: One paper accepted by AAAI 2026.
 - Aug. 2025: Started for pursing my PhD at CS@UMD.
 - Aug. 2025: Finished my internship at Jasper Capital as a quantitative research intern.
