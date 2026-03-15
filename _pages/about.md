@@ -16,15 +16,16 @@ My research interests center on building trustworthy and reliable machine learni
 
 Email: kaishen[at]umd[dot]edu
 
+## Industry Experience
+Mar. 2025 – Aug. 2025   Quantitative Research Intern, Jasper Capital
+
 ## News
 - Feb. 2026: One paper accetped by CVPR 2026.
 - Jan. 2026: One paper accepted by EACL 2026.
 - Nov. 2025: One paper accepted by AAAI 2026.
 - Aug. 2025: Started for pursing my PhD at CS@UMD.
-- Aug. 2025: Finished my internship at Jasper Capital.
 - June 2025: Graduated from Sichuan University.
 - May  2025: One paper accepted by ICML 2025.
-- Mar. 2025: Started my internship at Jasper Capital as a quantitative research intern.
 - Jan. 2025: One paper accepted by ICLR 2025.
 - Apr. 2024: One paper accepted by IJCAI 2024.
 
