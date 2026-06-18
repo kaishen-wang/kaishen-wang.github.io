@@ -33,4 +33,4 @@ Mar. 2025 – Aug. 2025   Quantitative Research Intern, Jasper Capital
 - Apr. 2024: One paper accepted by IJCAI 2024.
 
 ## Service
-- ICLR@2025 SLLM workshop reviewer, ICLR@2026 reviewer, PAKDD@2026 reviewer. 
+- ICLR@2025 SLLM workshop reviewer, ICLR@2026 reviewer, PAKDD@2026 reviewer, NeurIPS@2026 reviewer. 
