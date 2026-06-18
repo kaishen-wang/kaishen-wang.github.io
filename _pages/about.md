@@ -17,8 +17,8 @@ My research interests center on building trustworthy and reliable machine learni
 Email: kaishen[at]umd[dot]edu
 
 ## Industry Experience
-May 2026 - Aug. 2026   Research Scientist Intern, TikTok (Seattle)
-Mar. 2025 – Aug. 2025   Quantitative Research Intern, Jasper Capital
+- May 2026 - Aug. 2026   Research Scientist Intern, TikTok (Seattle)
+- Mar. 2025 – Aug. 2025   Quantitative Research Intern, Jasper Capital
 
 ## News
 - Jun. 2026: One paper accepted by ECCV 2026.
