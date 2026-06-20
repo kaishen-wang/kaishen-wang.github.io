@@ -33,4 +33,5 @@ Email: kaishen[at]umd[dot]edu
 - Apr. 2024: One paper accepted by IJCAI 2024.
 
 ## Service
-- ICLR@2025 SLLM workshop reviewer, ICLR@2026 reviewer, PAKDD@2026 reviewer, NeurIPS@2026 reviewer. 
+- ICLR@2025 SLLM workshop reviewer, ICLR@2026 reviewer, PAKDD@2026 reviewer, NeurIPS@2026 reviewer.
+- Teaching Assistant: CMSC 131 (Fall 2025, Spring 2026)
