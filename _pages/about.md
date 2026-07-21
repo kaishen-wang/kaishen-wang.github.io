@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science at the University of Maryland, College Park, supervised by [Prof. Heng Huang](https://www.cs.umd.edu/~heng). I received my B.S. in Computer Science from Sichuan University in 2025, where I was fortunate to be supervised by [Prof. Tao He](https://ithet1007.github.io). I was also excited to work closely with [Prof. Hua Wei](https://search.asu.edu/profile/3095662) at Arizona State University.
 
-My research interests center on building trustworthy and reliable machine learning models. I am particularly interested in improving the safety and factual reliability of model outputs. To address these challenges, I study both the internal behavior of models and external training methods that can improve their robustness.
+My research interests center on building trustworthy and reliable machine learning systems. I am particularly interested in the safety and reliability of AI agents, as well as efficient training and inference methods for modern machine learning models.
 
 ## Contact
 
@@ -34,4 +34,4 @@ Email: kaishen[at]umd[dot]edu
 
 ## Service
 - ICLR@2025 SLLM workshop reviewer, ICLR@2026 reviewer, PAKDD@2026 reviewer, NeurIPS@2026 reviewer.
-- Teaching Assistant: CMSC 131 (Fall 2025, Spring 2026)
+- Teaching Assistant: CMSC 131 (Fall 2025, Spring 2026).
