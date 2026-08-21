@@ -21,6 +21,8 @@ Email: kaishen[at]umd[dot]edu
 - Mar. 2025 – Aug. 2025   Quantitative Research Intern, Jasper Capital (Shenzhen)
 
 ## News
+
+- Aug. 2026: One paper accepted by EMNLP 2026 (main conference).
 - Jun. 2026: One paper accepted by ECCV 2026.
 - Apr. 2026: One paper accepted by ICML 2026.
 - Feb. 2026: One paper accetped by CVPR 2026.
