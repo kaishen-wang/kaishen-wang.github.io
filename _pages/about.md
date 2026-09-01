@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a first-year Ph.D. student in Computer Science at the University of Maryland, College Park, supervised by [Prof. Heng Huang](https://www.cs.umd.edu/~heng). I received my B.S. in Computer Science from Sichuan University in 2025, where I was fortunate to be supervised by [Prof. Tao He](https://ithet1007.github.io). I was also excited to work closely with [Prof. Hua Wei](https://search.asu.edu/profile/3095662) at Arizona State University.
+I am a second-year Ph.D. student in Computer Science at the University of Maryland, College Park, supervised by [Prof. Heng Huang](https://www.cs.umd.edu/~heng). I received my B.S. in Computer Science from Sichuan University in 2025, where I was fortunate to be supervised by [Prof. Tao He](https://ithet1007.github.io). I was also excited to work closely with [Prof. Hua Wei](https://search.asu.edu/profile/3095662) at Arizona State University.
 
 My research interests center on building trustworthy and reliable machine learning systems. I am particularly interested in the safety and reliability of AI agents, as well as efficient training and inference methods for modern machine learning models.
 
