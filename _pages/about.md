@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 
-I am a second-year Ph.D. student in Computer Science at the University of Maryland, College Park, supervised by [Prof. Heng Huang](https://www.cs.umd.edu/~heng). I received my B.S. in Computer Science from Sichuan University in 2025, where I was fortunate to be supervised by [Prof. Tao He](https://ithet1007.github.io). I was also excited to work closely with [Prof. Hua Wei](https://search.asu.edu/profile/3095662) at Arizona State University.
+I am a second-year Ph.D. student in Computer Science at the University of Maryland, College Park, supervised by [Prof. Heng Huang](https://www.cs.umd.edu/~heng). I received my B.S. in Computer Science from Sichuan University in 2025, where I was fortunate to be supervised by [Prof. Tao He](https://ithet1007.github.io).
 
-My research interests center on building trustworthy and reliable machine learning systems. I am particularly interested in the safety and reliability of AI agents, as well as efficient training and inference methods for modern machine learning models.
-
-## Contact
-
-Email: kaishen[at]umd[dot]edu
+My research interests center on building **trustworthy, efficient, and practically useful AI systems**:
+- I am particularly interested in **trustworthy machine learning**, including the safety, reliability, and robustness of AI agents and multimodal models.
+- I am also interested in **efficient training and inference for foundation models**. As foundation models become increasingly capable, I believe computational efficiency will play a growing role in their practical adoption. My current interests include efficient test-time scaling, reasoning distillation.
+- Beyond methodological research, I am interested in **real-world AI applications**. One concrete direction I am currently exploring is AI for K-pop, where I study how AI can better understand audience preferences and artist identity, with the broader goal of supporting real-world creative and content decision making.
 
 ## Industry Experience
 - May 2026 - Aug. 2026   Research Scientist Intern, TikTok (Seattle)
@@ -22,7 +21,7 @@ Email: kaishen[at]umd[dot]edu
 
 ## News
 
-- Aug. 2026: One paper accepted by EMNLP 2026 (main conference).
+- Aug. 2026: One paper accepted by EMNLP 2026.
 - Jun. 2026: One paper accepted by ECCV 2026.
 - Apr. 2026: One paper accepted by ICML 2026.
 - Feb. 2026: One paper accetped by CVPR 2026.
