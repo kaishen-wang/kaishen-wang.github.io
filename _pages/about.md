@@ -21,6 +21,7 @@ My research interests center on building **trustworthy, efficient, and practical
 
 ## News
 
+- Sep. 2026: One paper accepted by NeurIPS 2026.
 - Aug. 2026: One paper accepted by EMNLP 2026.
 - Jun. 2026: One paper accepted by ECCV 2026.
 - Apr. 2026: One paper accepted by ICML 2026.
