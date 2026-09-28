@@ -35,5 +35,5 @@ My research interests center on building **trustworthy, efficient, and practical
 - Apr. 2024: One paper accepted by IJCAI 2024.
 
 ## Service
-- ICLR@2025 SLLM workshop reviewer, ICLR@2026 reviewer, PAKDD@2026 reviewer, NeurIPS@2026 reviewer, MICCAI@2026 AMPLIFAI reviewer.
+- Reviewer: ICLR@2025 SLLM workshop, ICLR@2026, PAKDD@2026, NeurIPS@2026, MICCAI@2026 AMPLIFAI, ICLR@2027, IEEE Transactions on Multimedia.
 - Teaching Assistant: CMSC 131 (Fall 2025, Spring 2026, Fall 2026).
