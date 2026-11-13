@@ -19,6 +19,10 @@ My research interests center on building **trustworthy, efficient, and practical
 - May 2026 - Aug. 2026   Research Scientist Intern, TikTok (Seattle)
 - Mar. 2025 – Aug. 2025   Quantitative Research Intern, Jasper Capital (Shenzhen)
 
+## Service
+- Reviewer: ICLR@2025 SLLM workshop, ICLR@2026, PAKDD@2026, NeurIPS@2026, MICCAI@2026 AMPLIFAI, ICLR@2027, IEEE Transactions on Multimedia, ARR OCT@2026
+- Teaching Assistant: CMSC 131 (Fall 2025, Spring 2026, Fall 2026).
+
 ## News
 
 - Sep. 2026: One paper accepted by NeurIPS 2026.
@@ -34,6 +38,3 @@ My research interests center on building **trustworthy, efficient, and practical
 - Jan. 2025: One paper accepted by ICLR 2025.
 - Apr. 2024: One paper accepted by IJCAI 2024.
 
-## Service
-- Reviewer: ICLR@2025 SLLM workshop, ICLR@2026, PAKDD@2026, NeurIPS@2026, MICCAI@2026 AMPLIFAI, ICLR@2027, IEEE Transactions on Multimedia.
-- Teaching Assistant: CMSC 131 (Fall 2025, Spring 2026, Fall 2026).
